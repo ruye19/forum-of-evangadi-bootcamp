@@ -45,3 +45,8 @@ app.listen(PORT, (err) => {
     console.log("Litsenning on http://localhost:5500")
   }
 })
+
+
+
+// deployed in forum-of-evangadi-bootcamp.vercel.app
+// deployedd of backend in render.com 
