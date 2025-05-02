@@ -48,5 +48,5 @@ app.listen(PORT, (err) => {
 
 
 
-// deployed in forum-of-evangadi-bootcamp.vercel.app
+// deployed in https://forum-of-evangadi-bootcamp-8a0129ciq-ruths-projects-0d21d5e6.vercel.app/landing
 // deployedd of backend in render.com 
